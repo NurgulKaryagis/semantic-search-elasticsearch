@@ -1,4 +1,4 @@
-## Download the Data**
+## Download the Data
 
    Download the dataset used for this project from the Hugging Face dataset repository:
 
